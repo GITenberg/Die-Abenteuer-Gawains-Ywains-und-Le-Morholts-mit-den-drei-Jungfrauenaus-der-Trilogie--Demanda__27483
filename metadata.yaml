@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '32715'
     url: http://www.gutenberg.org/2009/agents/32715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27483#Die-Abenteuer-Gawains-Ywains-und-Le-Morholts-mit-den-drei-Jungfrauenaus-der-Trilogie--Demanda_
 gutenberg_bookshelf:
 - DE Prosa
 - DE Sachbuch
